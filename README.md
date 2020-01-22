@@ -4,7 +4,7 @@ Analyzing history of car insurance quotes that each customer reviewed before mak
 ![alt_test](Allstate_Coverage_C.png)
 
 [link to interactive dashboard](https://public.tableau.com/profile/cristian.t.lazaro#!/?newProfile=&activeTab=0)
-( Modeling insurance conversion rate to increase from benchmark 50% to ~53% comming shortly)
+( Modeling insurance conversion rate to increase from benchmark 50% to ~53% coming shortly)
 
 # Business Goal
 As a customer shops an insurance policy, he/she will receive a number of quotes with different coverage options before purchasing a plan. This is represented in this challenge as a series of rows that include a customer ID, information about the customer, information about the quoted policy, and the cost. Your task is to predict the purchased coverage options using a limited subset of the total interaction history. If the eventual purchase can be predicted sooner in the shopping window, the quoting process is shortened and the issuer is less likely to lose the customer's business.
